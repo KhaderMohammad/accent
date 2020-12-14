@@ -12,4 +12,13 @@ Next
 
 {
     enter the repository with the given integer and the maxducks
+ adam
 } adnana
+
+}
+
+basics commands and coding with network articles th given articles  follow-up and adnan adnan
+
+addednew file new file boo
+
+main
