@@ -14,4 +14,4 @@ Next
     enter the repository with the given integer and the maxducks
 }
 
-basics commands
+basics commands and coding with network articles
