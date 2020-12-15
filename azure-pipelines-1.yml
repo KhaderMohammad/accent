@@ -14,6 +14,6 @@ steps:
   displayName: 'Run a one-line script'
 
 - script: |
-    echo Add other tasks to build, test, and deploy your project. affan and adnan
+    echo Add other tasks to build, test, and deploy your project. affan and adnan and mom and dad and me and bhai
     echo See https://aka.ms/yaml
   displayName: 'Run a multi-line script'
